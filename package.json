@@ -1,0 +1,25 @@
+{
+  "name": "tema-dos-cria",
+  "displayName": "tema-dos-cria",
+  "description": "Apenas pequenas modificações no tema Tokyo Night",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tema dos cria",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tema-dos-cria.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nulo0/tema-dos-cria"
+  }
+}
