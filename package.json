@@ -1,11 +1,12 @@
 {
   "name": "tema-dos-cria",
-  "displayName": "tema-dos-cria",
+  "displayName": "Tema dos Cria",
   "description": "Apenas pequenas modificações no tema Tokyo Night",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.83.0"
   },
+  "publisher": "nul0",
   "categories": [
     "Themes"
   ],
